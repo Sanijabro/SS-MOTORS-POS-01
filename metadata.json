@@ -1,0 +1,6 @@
+{
+  "name": "SS MOTORS POS",
+  "description": "Complete production-ready Point of Sale & Inventory Management System for SS MOTORS Tuk Tuk and Bicycle spare parts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
